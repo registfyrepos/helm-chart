@@ -4,11 +4,11 @@
 
 A Helm chart for Kubernetes
 
-**Homepage:** <https://gitlab.com/ftg2021/helm-chart>
+**Homepage:** <https://github.com/registfyrepos/helm-chart>
 
 ## Source Code
 
-* <https://gitlab.com/ftg2021/helm-chart>
+* <https://github.com/registfyrepos/helm-chart>
 
 ## Values
 
