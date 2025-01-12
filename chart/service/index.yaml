@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    created: "2022-05-30T03:22:50.134271+04:00"
+    description: A Helm chart for Kubernetes
+    digest: ee0e07f553211d8b78eda2dd6b0f2756b4480c18c61bd43598bae7bf1745dda3
+    home: https://gitlab.com/ftg2021/helm-chart
+    name: service
+    sources:
+    - https://gitlab.com/ftg2021/helm-chart
+    type: application
+    urls:
+    - service-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-30T03:22:50.13255+04:00"
