@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   service:
   - apiVersion: v2
-    created: "2025-01-12T15:55:42.856883782+02:00"
+    created: "2025-01-12T16:12:27.305996837+02:00"
     description: A Helm chart for Kubernetes
     digest: f8746ed8cf4cb28265004fe91b5833a5559a247c1c932ad8354b4d7477dbfda8
     home: https://github.com/registfyrepos/helm-chart
@@ -13,4 +13,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/registfyrepos/helm-chart/main/charts/service-1.18.7.tgz
     version: 1.18.7
-generated: "2025-01-12T15:55:42.856309583+02:00"
+generated: "2025-01-12T16:12:27.305380468+02:00"
