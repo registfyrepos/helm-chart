@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    created: "2025-01-12T16:31:24.210987002+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e0ffcd43ec81c69bd272857d5ec10cc9cb5afada771ee44710bad66bb58de82c
+    home: https://github.com/registfyrepos/helm-chart
+    name: service
+    sources:
+    - https://github.com/registfyrepos/helm-chart
+    type: application
+    urls:
+    - https://registfyrepos.github.io/helm-chart/service-1.18.7.tgz
+    version: 1.18.7
+generated: "2025-01-12T16:31:24.210333328+02:00"
